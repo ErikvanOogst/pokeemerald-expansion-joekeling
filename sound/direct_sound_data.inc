@@ -6395,3 +6395,7 @@ DirectSoundWaveData_sd90_enhanced_delay_shaku::
 	.align 2
 DirectSoundWaveData_newsample_op::
 	.incbin "sound/direct_sound_samples/newsample_op.bin"
+	
+	.align 2
+DirectSoundWaveData_newsample_violin::
+	.incbin "sound/direct_sound_samples/newsample_violin.bin"
