@@ -6399,3 +6399,32 @@ DirectSoundWaveData_newsample_op::
 	.align 2
 DirectSoundWaveData_newsample_violin::
 	.incbin "sound/direct_sound_samples/newsample_violin.bin"
+	
+	.align 2
+DirectSoundWaveData_VIOLN68::
+	.incbin "sound/direct_sound_samples/VIOLN68.bin"
+	
+	.align 2
+DirectSoundWaveData_VIOLN70::
+	.incbin "sound/direct_sound_samples/VIOLN70.bin"
+		
+	.align 2
+DirectSoundWaveData_VIOLN76::
+	.incbin "sound/direct_sound_samples/VIOLN76.bin"
+	
+	.align 2
+DirectSoundWaveData_VIOLN80::
+	.incbin "sound/direct_sound_samples/VIOLN80.bin"
+	
+	.align 2
+DirectSoundWaveData_VIOLN86::
+	.incbin "sound/direct_sound_samples/VIOLN86.bin"
+	
+	.align 2
+DirectSoundWaveData_VIOLN95::
+	.incbin "sound/direct_sound_samples/VIOLN95.bin"
+		
+	.align 2
+DirectSoundWaveData_VIOLNA4::
+	.incbin "sound/direct_sound_samples/VIOLNA4.bin"
+	
